@@ -8,11 +8,8 @@ A site about the history of arhitecture
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
   - [Features](#features)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Authors](#authors)
+  - [Web Dev](#WebDev)
+  - [Demo](#demo)
 
 ## Description
 
